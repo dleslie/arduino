@@ -1,0 +1,6 @@
+[submodule "devices/ODROID-GO"]
+	path = devices/ODROID-GO
+	url = https://github.com/hardkernel/ODROID-GO.git
+[submodule "devices/go-play"]
+	path = devices/go-play
+	url = https://github.com/OtherCrashOverride/go-play
