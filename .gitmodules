@@ -4,3 +4,6 @@
 [submodule "devices/go-play"]
 	path = devices/go-play
 	url = https://github.com/OtherCrashOverride/go-play
+[submodule "apps/fritzing-app"]
+	path = apps/fritzing-app
+	url = https://github.com/fritzing/fritzing-app
