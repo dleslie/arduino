@@ -7,3 +7,7 @@
 [submodule "apps/fritzing-app"]
 	path = apps/fritzing-app
 	url = https://github.com/fritzing/fritzing-app
+[submodule "devices/odroid-go-firmware"]
+	path = devices/odroid-go-firmware
+	url = https://github.com/othercrashoverride/odroid-go-firmware.git
+
