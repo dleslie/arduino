@@ -11,3 +11,6 @@
 	path = devices/odroid-go-firmware
 	url = https://github.com/othercrashoverride/odroid-go-firmware.git
 
+[submodule "lib/StandardCplusplus"]
+	path = lib/StandardCplusplus
+	url = git://github.com/maniacbug/StandardCplusplus
