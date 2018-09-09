@@ -14,3 +14,6 @@
 [submodule "lib/StandardCplusplus"]
 	path = lib/StandardCplusplus
 	url = git://github.com/maniacbug/StandardCplusplus
+[submodule "lib/ArduinoSTL"]
+	path = lib/ArduinoSTL
+	url = git@github.com:mike-matera/ArduinoSTL.git
