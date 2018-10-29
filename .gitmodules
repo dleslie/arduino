@@ -20,3 +20,6 @@
 [submodule "lib/UGUI"]
 	path = lib/UGUI
 	url = https://github.com/achimdoebler/UGUI
+[submodule "apps/mkspiffs"]
+	path = apps/mkspiffs
+	url = https://github.com/igrr/mkspiffs
