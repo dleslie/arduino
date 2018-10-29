@@ -17,3 +17,6 @@
 [submodule "lib/ArduinoSTL"]
 	path = lib/ArduinoSTL
 	url = git@github.com:mike-matera/ArduinoSTL.git
+[submodule "lib/UGUI"]
+	path = lib/UGUI
+	url = https://github.com/achimdoebler/UGUI
